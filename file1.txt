@@ -1,1 +1,2 @@
 hello-world from Git
+This is a correct change to be committed 
