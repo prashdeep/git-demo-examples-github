@@ -1,1 +1,3 @@
 changes to a new file
+changes to feature 2
+Now ready to implement feature3
